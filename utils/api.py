@@ -47,7 +47,7 @@ class GoogleMapsApi():
         return result_get
 
 
-    """Метод для изменения новой локации новой локации"""
+    """Метод для изменения новой локации"""
 
     @staticmethod
     def put_new_place(place_id):
@@ -65,7 +65,7 @@ class GoogleMapsApi():
 
 
 
-        """Метод для удаления новой локации новой локации"""
+        """Метод для удаления новой локации"""
 
     @staticmethod
     def delete_new_place(place_id):
